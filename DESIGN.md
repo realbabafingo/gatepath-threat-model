@@ -31,6 +31,16 @@ The focus is explicit routing, clear trust boundaries, and minimal assumptions.
 - Egress exclusively via Tor
 - Designed to fail closed if Tor is unavailable
 
+## Traffic intent
+
+Gatepath treats traffic intent as explicit.
+
+- Standard VPN paths imply clearnet intent
+- Tor SOCKS usage implies explicit Tor intent
+- Tor-only paths imply exclusive Tor intent
+
+Traffic is never reclassified automatically.
+
 ## Why no transparent Tor routing
 Transparent proxying is avoided because it:
 - hides routing intent from users
