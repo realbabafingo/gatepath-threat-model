@@ -1,0 +1,19 @@
+# Example Tor client configuration (documentation only)
+
+ClientOnly 1
+ExitRelay 0
+ORPort 0
+DirPort 0
+
+ClientUseIPv4 1
+ClientUseIPv6 0
+
+AvoidDiskWrites 1
+
+# Conservative circuit rotation example (adjust as needed)
+MaxCircuitDirtiness 600
+NewCircuitPeriod 30
+
+# Tor SOCKS typically stays local on Debian-based systems.
+# Exposing SOCKS to VPN clients should be done via a controlled forwarder.
+SocksPort 127.0.0.1:9050
